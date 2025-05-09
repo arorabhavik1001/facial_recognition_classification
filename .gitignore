@@ -8,21 +8,17 @@ frontend/!.yarn/patches
 frontend/!.yarn/plugins
 frontend/!.yarn/releases
 frontend/!.yarn/versions
-frontend/
 # testing
 frontend/coverage
-frontend/
 # next.js
 frontend/.next/
 frontend/out/
-frontend/
 # production
 frontend/build
 frontend/
 frontend/# misc
 frontend/.DS_Store
 frontend/*.pem
-frontend/
 # debug
 frontend/npm-debug.log*
 frontend/yarn-debug.log*
@@ -31,10 +27,8 @@ frontend/.pnpm-debug.log*
 frontend/
 # env files (can opt-in for committing if needed)
 frontend/.env*
-frontend/
 # vercel
 frontend/.vercel
-frontend/
 # typescript
 frontend/*.tsbuildinfo
 frontend/next-env.d.ts
